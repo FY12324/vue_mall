@@ -1,0 +1,60 @@
+{
+ 
+    "goodsList":[
+        {"goods":{
+            "type":"服装",
+            "list":[
+            {"id":1,"name":"森马t恤男士","price":20,"img":["/img/nanzhuang1.jpg","/img/nanzhuang1-1.jpg","/img/nanzhuang1-2.jpg"],"explain":"夹克男春秋韩版潮流宽松学生帅气撞色外套原宿风潮牌百搭休闲上衣"},
+            {"id":2,"name":"宽松夹克外套","price":40,"img":["/img/nanzhuang2.jpg","/img/nanzhuang2-1.jpg","/img/nanzhuang2-2.jpg"],"explain":"森马短袖t恤男士2021夏季新款潮流纯棉半袖宽松潮牌港风衣服体恤"},
+            {"id":1,"name":"卡通T恤女","price":96,"img":["/img/nvzhuang1.jpg","/img/nvzhuang1-1.jpg","/img/nvzhuang1-2.jpg"],"explain":"珍妮宇航局恶搞唐老鸭卫衣女薄款宽松潮春装中性百搭圆领套头上衣"},
+            {"id":2,"name":"女加绒卫衣","price":96,"img":["/img/nvzhuang2.jpg","/img/nvzhuang2-1.jpg","/img/nvzhuang2-2.jpg"],"explain":"青蔷薇新年连帽卫衣宽松韩版春装2021年新款女红色加绒上衣服潮"}
+            ]
+          }
+        },
+        {"goods":{
+            "type":"鞋类",
+            "list":[
+            {"id":3,"name":"粉色女鞋","price":104,"img":["/img/nvxie1.jpg","/img/nvxie1-1.jpg","/img/nvxie1-2.jpg"],"explain":"回力ow联名樱花空军一号百搭ins潮板鞋休闲鞋运动鞋小白鞋女鞋夏"},
+            {"id":4,"name":"女运动鞋","price":140,"img":["/img/nvxie2.jpg","/img/nvxie2-1.jpg","/img/nvxie2-2.jpg"],"explain":"回力老爹鞋夏季女2021年新款透气跑步鞋百搭休闲鞋ins潮运动鞋女"},
+            {"id":4,"name":"男运动鞋","price":140,"img":["/img/nanxie1.jpg","/img/nanxie1-1.jpg","/img/nanxie1-2.jpg"],"explain":"回力男鞋老爹鞋ins潮2021新款鞋子男潮小白鞋夏季透气休闲运动鞋"},
+            {"id":4,"name":"男款板鞋","price":140,"img":["/img/nanxie2.jpg","/img/nanxie2-1.jpg","/img/nanxie2-2.jpg"],"explain":"回力老爹鞋夏季女2021年新款透气跑步鞋百搭休闲鞋ins潮运动鞋女"}
+            ]
+          }
+        },
+        {"goods":{
+            "type":"彩妆",
+            "list":[
+            {"id":5,"name":"指尖星眸眼影","price":299,"img":["/img/caizhuang1.jpg","/img/caizhuang1-1.jpg","/img/caizhuang1-2.jpg"],"explain":"HOLD LIVE指尖星眸眼影盘 红棕奶栗豆沙焦糖红茶色珠光哑光便携妆"},
+            {"id":6,"name":"橘朵眼影盘","price":398,"img":["/img/caizhuang2.jpg","/img/caizhuang2-1.jpg","/img/caizhuang2-2.jpg"],"explain":"Judydoll橘朵烘焙三色饼干拼色眼影盘ins超火哑光珠光深邃旗舰店"},
+            {"id":6,"name":"橘朵修容粉","price":276,"img":["/img/caizhuang3.jpg","/img/caizhuang3.jpg","/img/caizhuang3-2.jpg"],"explain":"Judydoll橘朵迪士尼双色修容粉饼阴影鼻影高光修容一体盘发际线"},
+            {"id":6,"name":"三色饼干眼影盘","price":98,"img":["/img/caizhuang3.jpg","/img/caizhuang3.jpg","/img/caizhuang3-2.jpg"],"explain":"Judydoll橘朵烘焙三色饼干拼色眼影盘ins超火哑光珠光深邃旗舰店"},
+            {"id":6,"name":"奇蒂蒂眼影盘","price":98,"img":["/img/caizhuang4.jpg","/img/caizhuang4.jpg","/img/caizhuang4-2.jpg"],"explain":"Judydoll橘朵迪士尼奇奇蒂蒂九色眼影盘大地色深邃眼眸哑光旗舰店"}
+          
+          ]
+          }
+        },
+        {"goods":{
+          "type":"数码",
+          "list":[
+            {"id":10,"name":"联想小新Air14/Air15","price":5590,"img":["/img/shuma1.jpg","/img/shuma1-1.jpg","/img/shuma1-2.jpg"],"explain":"【新品上市】联想小新Air14/Air15 2021 英特尔酷睿i5-1155G7 14/15.6英寸轻薄本笔记本电脑 多型号可选"},
+            {"id":9,"name":"华为 HUAWEI MatePad","price":5999,"img":["/img/shuma2.jpg","/img/shuma2-1.jpg","/img/shuma2-2.jpg"],"explain":"Huawei/华为 HUAWEI MatePad 10.4英寸平板电脑 绚丽全面屏办公 学习娱乐智能平板 学生平板"},
+            {"id":10,"name":"iPhone 12","price":5899,"img":["/img/shuma3.jpg","/img/shuma3-1.jpg","/img/shuma3-2.jpg"],"explain":"Apple/苹果 iPhone 12"},
+            {"id":9,"name":"富士数码相机","price":5200,"img":["/img/shuma4.jpg","/img/shuma4-1.jpg","/img/shuma4-2.jpg"],"explain":"【旗舰店】Fujifilm/富士 X100F 旁轴数码相机 x100f  X100f"}
+          ]
+        }
+      },
+      {"goods":{
+        "type":"美食",
+        "list":[
+        {"id":5,"name":"奥利奥","price":42,"img":["/img/meishi1.jpg","/img/meishi1-1.jpg","/img/meishi1-2.jpg"],"explain":"亿滋奥利奥饼干碎整箱24包 中号饼干碎屑木糠杯麦旋风雪花酥"},
+        {"id":6,"name":"生日蛋糕","price":198,"img":["/img/meishi2.jpg","/img/meishi2-1.jpg","/img/meishi2-2.jpg"],"explain":"元祖情人节情有独钟水果鲜奶油蛋糕网红情侣纪念聚会生日"},
+        {"id":6,"name":"巧克力","price":100,"img":["/img/meishi3.jpg","/img/meishi3-1.jpg","/img/meishi3-2.jpg"],"explain":"GODIVA歌帝梵经典黑巧系列巧克力36片装礼盒比利时进口休闲零食"},
+        {"id":6,"name":"曲奇趣多多","price":68,"img":["/img/meishi4.jpg","/img/meishi4-1.jpg","/img/meishi4-2.jpg"],"explain":"韩国进口零食青右CW麻薯巧克力打糕糯米糍曲奇饼干点心糕点早餐"},
+        {"id":6,"name":"螺蛳粉","price":98,"img":["/img/meishi5.jpg","/img/meishi5-1.jpg","/img/meishi5-2.jpg"],"explain":"李子柒螺蛳粉335g*5袋/7包速食正宗广西柳州特产螺丝粉米线方便面"}
+      
+      ]
+      }
+    }
+    ]
+}
+    

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+    //     do{
+    //         var message = prompt ( '你爱我吗' )
+    //     } while ( message !== '我爱你' & '爱' & '爱你' )
+    //     alert('我也爱你呀');
+    var sum = 100;
+    var money=0;
+   do{
+    var d = prompt ( '请输入需要执行的操作\n1.存钱\n2.取钱\n3.显示余额\n4.退出' );
+    switch( d ) {
+            case '1':
+                var money =  prompt('请输入您存入的数目');
+                sum += parseFloat ( money );
+                alert('您的余额为' + sum);
+                break;
+            case '2' :
+                var money = prompt ( '请输入您取出的数目' );
+                if(sum < parseFloat(money)){
+                    alert( '您的余额不足！' );
+                }else{
+                sum -= parseFloat ( money );
+                alert ('您的余额为' + sum);
+                }
+                break;
+            case '3':
+                alert( '您的余额为' + sum);
+                break;
+            case '4':
+                alert( '您已退出！' );
+                break;
+                }
+            } while (d!== '4');
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

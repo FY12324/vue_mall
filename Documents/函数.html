@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        //判断闰年
+        /*function isRunYear(year) {
+             if(year % 4 == 0 && year % 100 != 0 || year%400 == 0) {
+                 return true;
+             }else {
+                 return false;
+             }
+         }*/
+             function isRunYear(year) {
+                 var flag = false;
+                 if(year % 4 == 0 && year % 100 != 0 || year%400 == 0) {
+                     flag = true;
+                 }
+                 return flag;
+             }
+         console.log(isRunYear(2000));
+         console.log( isRunYear(1999));
+         console.log(isRunYear(2020));
+         //调用闰年判断输出二月天数
+         function isFebrary(){
+           year = prompt('请输入年份');
+           var flag = isRunYear(parseInt(year));
+           if (flag = true) {
+               alert('今年的二月份有29天');
+           }else{
+               alert('今年的二月份有28天');
+           }
+         }
+         isFebrary();
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
